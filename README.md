@@ -1,5 +1,6 @@
 # CropOracle
-Project for the course Data Analytics in Smart Agricolture at Polimi
+Project for the course Data Analytics in Smart Agricolture at Polimi.
+
 Our goal was the prediction of the harvest using satellite images and possible business applications.
 
 Here the presentation for more infos:
