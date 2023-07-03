@@ -8,11 +8,11 @@ The goal was to support business applications in the sector of agricultural insu
 In particular, we would provide tools for insurance companies to predict the health of ongoing insurance products and tools for the commercialization of parametric insurance products, which could have saved the companies 5-10% of the average cost by avoiding claim adjusters interventions.  
 
 ## More
-Check out the presentation for a complete overview:
-https://www.canva.com/design/DAFR6_uNRZQ/lpGbMNLuJ1ABis5d_i13vQ/view?utm_content=DAFR6_uNRZQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+Check out the [presentation](https://www.canva.com/design/DAFR6_uNRZQ/lpGbMNLuJ1ABis5d_i13vQ/view?utm_content=DAFR6_uNRZQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) for a complete overview.
 
-If you are interested in the model design section you can tinker with it using our notebook on Kaggle:
-https://www.kaggle.com/code/manuelcecerepalazzo/yield-prediction-deepmodel
+
+If you are interested in the model design section you can tinker with it using [our notebook on Kaggle](https://www.kaggle.com/code/manuelcecerepalazzo/yield-prediction-deepmodel)
+
 
 
 ## Disclaimer
